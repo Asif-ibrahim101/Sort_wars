@@ -1,0 +1,32 @@
+
+Merge Sort - Random 10k:
+Time: 18.96 ms
+Memory: 0.99 MB
+
+Quick Sort - Random 10k:
+Time: 26.88 ms
+Memory: 0.00 MB
+
+Merge Sort - Random 100k:
+Time: 229.81 ms
+Memory: 3.73 MB
+
+Quick Sort - Random 100k:
+Time: 325.82 ms
+Memory: 0.77 MB
+
+Merge Sort - Reversed 10k:
+Time: 14.97 ms
+Memory: 0.00 MB
+
+Quick Sort - Reversed 10k:
+Time: 0.00 ms
+Memory: 0.00 MB
+
+Merge Sort - Reversed 100k:
+Time: 178.51 ms
+Memory: 1.04 MB
+
+Quick Sort - Reversed 100k:
+Time: 0.00 ms
+Memory: 0.00 MB
